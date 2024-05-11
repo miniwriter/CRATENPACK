@@ -1,6 +1,6 @@
 # Crate N Pack Solutions Is A Unique Industrial Packaging Company Offering Timber Packaging Products, Services & Solutions
 
-<p align="center">
+<p>
   <a href="#" style="display: block; padding: 1em 0; text-align: center; ">
 <img
       alt=""
